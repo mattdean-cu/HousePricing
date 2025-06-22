@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+*.iml
+
+# Virtual Environment
+.venv/
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# Logs & outputs
+*.log
+*.tmp
+
+# Env files (if used)
+.env
